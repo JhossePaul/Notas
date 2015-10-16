@@ -1,0 +1,224 @@
+{
+  "title": "Business Intelligence",
+  "id": 1,
+  "formatVersion": 2,
+  "ideas": {
+    "15.5": {
+      "title": "Beneficios",
+      "id": 35,
+      "ideas": {
+        "1": {
+          "title": "Rentabilidad del servicio",
+          "id": 37,
+          "attr": {
+            "style": {
+              "background": "#333399"
+            }
+          }
+        },
+        "2": {
+          "title": "Conocimiento del cliente",
+          "id": 38,
+          "attr": {
+            "style": {
+              "background": "#333399"
+            }
+          }
+        },
+        "3": {
+          "title": "Toma de decisiones objetivas",
+          "id": 39,
+          "attr": {
+            "style": {
+              "background": "#333399"
+            }
+          }
+        },
+        "4": {
+          "title": "Generación de estrategias",
+          "id": 40,
+          "attr": {
+            "style": {
+              "background": "#333399"
+            }
+          }
+        },
+        "5": {
+          "title": "Segmentación de mercado",
+          "id": 41,
+          "attr": {
+            "style": {
+              "background": "#333399"
+            }
+          }
+        },
+        "6": {
+          "title": "Planificación de producción",
+          "id": 42,
+          "attr": {
+            "style": {
+              "background": "#333399"
+            }
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    },
+    "-10": {
+      "title": "Herramientas",
+      "id": 44,
+      "ideas": {
+        "1": {
+          "title": "Análisis Bursátil",
+          "id": 2,
+          "ideas": {
+            "1": {
+              "title": "Pronóstico de ventas",
+              "id": 9,
+              "ideas": {
+                "1": {
+                  "title": "Ventas por temporada",
+                  "id": 10,
+                  "attr": {
+                    "style": {
+                      "background": "#333399"
+                    }
+                  },
+                  "ideas": {}
+                },
+                "2": {
+                  "title": "Tendencia de ventas",
+                  "id": 12,
+                  "attr": {
+                    "style": {
+                      "background": "#333399"
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Efecto de las decisiones",
+                  "id": 20,
+                  "attr": {
+                    "style": {
+                      "background": "#333399"
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "background": "#ffffff"
+                }
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#333399"
+            },
+            "position": [
+              89,
+              -198,
+              1
+            ]
+          }
+        },
+        "2": {
+          "title": "Optimización",
+          "id": 6,
+          "ideas": {
+            "1": {
+              "title": "Maximizar ganancias",
+              "id": 23,
+              "attr": {
+                "style": {
+                  "background": "#ffffff"
+                },
+                "position": [
+                  98,
+                  -62.875,
+                  2
+                ]
+              }
+            },
+            "2": {
+              "title": "Minimizar pérdidas",
+              "id": 24,
+              "attr": {
+                "style": {
+                  "background": "#ffffff"
+                },
+                "position": [
+                  124,
+                  58.78125,
+                  3
+                ]
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#333399"
+            }
+          }
+        },
+        "3": {
+          "title": "Análisis de Riesgo",
+          "id": 8,
+          "ideas": {
+            "1": {
+              "title": "Éxito de decisiones",
+              "id": 15,
+              "attr": {
+                "style": {
+                  "background": "#ffffff"
+                },
+                "position": [
+                  150,
+                  -89.703125,
+                  2
+                ]
+              }
+            },
+            "2": {
+              "title": "Eficiencia de las sucursales",
+              "id": 18,
+              "attr": {
+                "style": {
+                  "background": "#ffffff"
+                },
+                "position": [
+                  147,
+                  73,
+                  3
+                ]
+              }
+            }
+          },
+          "attr": {
+            "style": {
+              "background": "#333399"
+            },
+            "position": [
+              33,
+              177,
+              2
+            ]
+          }
+        }
+      },
+      "attr": {
+        "style": {}
+      }
+    }
+  },
+  "links": [],
+  "attr": {
+    "style": {
+      "background": "#ff0000"
+    },
+    "customCSS": ".mapjs-node[mapjs-level=\"1\"]{\n  border-radius: 60px;\n  font-size: 22px;\n}\n.mapjs-node[mapjs-level=\"2\"]{\n  border-radius: 30px;\n  font-size: 16px;\n}\n.mapjs-node[mapjs-level=\"3\"]{\n  border-radius: 20px;\n  font-size: 12px;\n}\n.mapjs-node[mapjs-level=\"4\"]{\n  border-radius: 20px;\n  font-size: 10px;\n}"
+  }
+}
